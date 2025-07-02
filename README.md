@@ -1,2 +1,34 @@
 # Memory-Master-Challenge
-A full-stack e-commerce platform for toys and games, featuring a Laravel-powered product management system and an integrated real-time "Quick Tap" game. Combines traditional e-commerce functionality with interactive gaming experiences for enhanced user engagement.
+
+Memory Master Challenge is a dual-purpose web application combining an e-commerce platform for educational toys with an interactive memory game. Built with Laravel and Node.js, it offers a seamless shopping experience while engaging users with cognitive challenges. The platform features age-appropriate product recommendations, user reviews, and a real-time multiplayer memory game to enhance learning and entertainment.
+
+## Project Description (for GitHub)
+```
+Memory Master Challenge is a 
+dual-purpose web application 
+combining an e-commerce platform 
+for educational toys with an 
+interactive memory game. Built 
+with Laravel and Node.js, it 
+offers a seamless shopping 
+experience while engaging users 
+with cognitive challenges. The 
+platform features age-appropriate 
+product recommendations, user 
+reviews, and a real-time 
+multiplayer memory game to enhance 
+learning and entertainment.
+```
+## Key Features
+- E-commerce platform with age-specific toy and game categorization
+- Integrated real-time memory challenge game
+- User review and rating system
+- Age-appropriate product recommendations
+- Secure user authentication
+- Inventory management system
+## Tech Stack
+- Laravel (PHP) - Main e-commerce platform
+- Node.js/Express - Game server
+- MongoDB - Game data storage
+- MySQL - E-commerce data
+- JWT Authentication
