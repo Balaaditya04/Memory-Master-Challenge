@@ -18,6 +18,3 @@ Memory Master Challenge is a dual-purpose web application combining an e-commerc
 - MongoDB - Game data storage
 - MySQL - E-commerce data
 - JWT Authentication
-
-## Tags
-educational-games e-commerce laravel nodejs memory-game interactive-learning real-time mongodb mysql
